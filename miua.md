@@ -71,6 +71,66 @@ Statistics and the proceedings from previous conferences can be found in the tab
 <td align="left"></td>
 </tr>-->
 <tr class="even">
+<td align="left">2023</td>
+<td align="left"> <a href="https://www.abdn.ac.uk/events/conferences/miua2023.php"> Aberdeen</a></td>
+<td align="right"> </td>
+<td align="right"> </td>
+<td align="right"> </td>
+<td align="right"> </td>
+<td align="right"> </td>
+<td align="right"> </td>
+<td align="right"> </td>
+<td align="left"><a href="">proceedings</a></td>
+</tr>
+<tr class="even">
+<td align="left">2022</td>
+<td align="left"> <a href="https://www.miua2022.com/">Cambrige</a></td>
+<td align="right"> </td>
+<td align="right"> </td>
+<td align="right"> </td>
+<td align="right"> </td>
+<td align="right"> </td>
+<td align="right"> </td>
+<td align="right"> </td>
+<td align="left"><a href="https://link.springer.com/book/10.1007/978-3-031-12053-4">proceedings</a></td>
+</tr>
+<tr class="even">
+<td align="left">2021</td>
+<td align="left"> <a href="https://miua2021.com/">Oxford</a></td>
+<td align="right"> </td>
+<td align="right"> </td>
+<td align="right"> </td>
+<td align="right"> </td>
+<td align="right"> </td>
+<td align="right"> </td>
+<td align="right"> </td>
+<td align="left"><a href="https://link.springer.com/book/10.1007/978-3-030-80432-9">proceedings</a></td>
+</tr>
+<tr class="even">
+<td align="left">2020</td>
+<td align="left"> Oxford</td>
+<td align="right"> </td>
+<td align="right"> </td>
+<td align="right"> </td>
+<td align="right"> </td>
+<td align="right"> </td>
+<td align="right"> </td>
+<td align="right"> </td>
+<td align="left"><a href="https://link.springer.com/book/10.1007/978-3-030-52791-4">proceedings</a></td>
+</tr>
+<tr class="even">
+<td align="left">2019</td>
+<td align="left"> <a href="https://miua2019.wordpress.com/">Liverpool</a></td>
+<td align="right"> </td>
+<td align="right"> </td>
+<td align="right"> </td>
+<td align="right"> </td>
+<td align="right"> </td>
+<td align="right"> </td>
+<td align="right"> </td>
+<td align="left"><a href="https://link.springer.com/book/10.1007/978-3-030-39343-4">proceedings</a></td>
+</tr>
+<tr class="even">
 <td align="left">2018</td>
 <td align="left"><a href="https://www.miua2018.soton.ac.uk/">Southampton</a></td>
 <td align="right">42 (Tech.) 4 (Clin. Abs.)</td>
